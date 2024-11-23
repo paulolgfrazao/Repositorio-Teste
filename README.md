@@ -3,7 +3,12 @@
 ## Objetivo da Aula:
 
 1. Criar um repositório local e adiciona-lo ao nosso GitHub - remoto; [ X ]
-
+ -- git init
+ -- git add .
+ -- git commit -m "comentar"
+ -- git branch -M main (ENTRANDO NA BRANCH MAIN)
+ -- git remote add origin (LINK REMOTO HTTPS)
+ 
 2. Clonar um repositório remoto para o nosso computador local; [ X ]
 \\Git clone "LINK DO HTTPS DO REPOSITÓRIO"
 

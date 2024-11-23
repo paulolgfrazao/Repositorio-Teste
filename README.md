@@ -18,10 +18,15 @@
  -- git push -u origin main (ADICIONAR ARQUIVOS)
  -- git log (VISUALIZAR HISTÓRICO DE COMMIT)
 
-4. Criar uma nova Branch; [ X ]
+4. Criar uma nova Branch e merge; [ X ]
  -- git branch versao_01 (CRIAR BRANCH)
- -- git checkout versao_01 
+ -- git checkout versao_01 (ENTRAR NA BRANCH)
 
-5. Realizar um Pull Request e Merge; []
+ -- status (VERIFICAR A BRANCH)
+ -- git checkout (ENTRAR NA MAIN)
+ -- git merge versao_01 (SUBIR ATUALIZAÇÃO DA VERSAO_01 PARA MAIN)
 
-6. Criar nosso primeiro Fork; []
+5. Realizar um Fork e Pull Request; [ X ]
+ 
+ -- Fork (COLABORAR EM UM PROJETO, FAZENDO MODIFICAÇÕES)
+ -- Pull Request (SOLICITAR QUE O DONO DO PROJETO REVISE MINHA MODIFICAÇÕES E APROVE OU NÃO AS MUDANÇAS PARA EXECUTAR O MERGE)

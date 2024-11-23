@@ -18,7 +18,9 @@
  -- git push -u origin main (ADICIONAR ARQUIVOS)
  -- git log (VISUALIZAR HISTÓRICO DE COMMIT)
 
-4. Criar uma nova Branch; []
+4. Criar uma nova Branch; [ X ]
+ -- git branch versao_01 (CRIAR BRANCH)
+ -- git checkout versao_01 
 
 5. Realizar um Pull Request e Merge; []
 
